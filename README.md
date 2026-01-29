@@ -9,7 +9,7 @@
 A professional data analytics application designed to provide real-time market insights for the Dubai hospitality sector. This dashboard integrates with **SerpAPI (Google Hotels)** to fetch live pricing data and uses statistical modeling to generate "Value Scores" and demand forecasts.
 
 ## 🚀 Live Demo
-**[Click here to view the Live App](https://your-app-url.streamlit.app)** *(Replace this link after you deploy on Streamlit Cloud)*
+**[Click here to view the Live App](https://hotel-analytics-xuntw5e2b7jv7a3qncyrku.streamlit.app/)**
 
 ---
 
